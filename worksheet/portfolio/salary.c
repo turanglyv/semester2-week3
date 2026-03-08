@@ -3,8 +3,8 @@
 
 /*
  * Potrfolio submission
- * Name:
- * ID:
+ * Name: Turan Guliyev
+ * ID: 202019784
  */
 
  int main( void ) {
